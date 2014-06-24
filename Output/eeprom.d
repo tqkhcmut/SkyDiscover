@@ -1,0 +1,11 @@
+.\output\eeprom.o: C:\StellarisWare\driverlib\eeprom.c
+.\output\eeprom.o: C:\StellarisWare\inc/hw_eeprom.h
+.\output\eeprom.o: C:\StellarisWare\inc/hw_flash.h
+.\output\eeprom.o: C:\StellarisWare\inc/hw_ints.h
+.\output\eeprom.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\eeprom.o: C:\StellarisWare\inc/hw_types.h
+.\output\eeprom.o: C:\StellarisWare\driverlib/debug.h
+.\output\eeprom.o: C:\StellarisWare\driverlib/flash.h
+.\output\eeprom.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\eeprom.o: C:\StellarisWare\driverlib/sysctl.h
+.\output\eeprom.o: C:\StellarisWare\driverlib/eeprom.h

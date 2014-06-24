@@ -1,0 +1,9 @@
+.\output\adc.o: C:\StellarisWare\driverlib\adc.c
+.\output\adc.o: C:\StellarisWare\inc/hw_adc.h
+.\output\adc.o: C:\StellarisWare\inc/hw_ints.h
+.\output\adc.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\adc.o: C:\StellarisWare\inc/hw_types.h
+.\output\adc.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\adc.o: C:\StellarisWare\driverlib/adc.h
+.\output\adc.o: C:\StellarisWare\driverlib/debug.h
+.\output\adc.o: C:\StellarisWare\driverlib/interrupt.h

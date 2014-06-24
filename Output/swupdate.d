@@ -1,0 +1,9 @@
+.\output\swupdate.o: C:\StellarisWare\utils\swupdate.c
+.\output\swupdate.o: C:\StellarisWare\inc/hw_nvic.h
+.\output\swupdate.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\swupdate.o: C:\StellarisWare\inc/hw_types.h
+.\output\swupdate.o: C:\StellarisWare\driverlib/flash.h
+.\output\swupdate.o: C:\StellarisWare\driverlib/rom.h
+.\output\swupdate.o: C:\StellarisWare\driverlib/sysctl.h
+.\output\swupdate.o: C:\StellarisWare\driverlib/systick.h
+.\output\swupdate.o: C:\StellarisWare\utils/lwiplib.h

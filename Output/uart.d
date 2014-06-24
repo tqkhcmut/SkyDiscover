@@ -1,0 +1,10 @@
+.\output\uart.o: C:\StellarisWare\driverlib\uart.c
+.\output\uart.o: C:\StellarisWare\inc/hw_ints.h
+.\output\uart.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\uart.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\uart.o: C:\StellarisWare\inc/hw_types.h
+.\output\uart.o: C:\StellarisWare\inc/hw_uart.h
+.\output\uart.o: C:\StellarisWare\driverlib/debug.h
+.\output\uart.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\uart.o: C:\StellarisWare\driverlib/uart.h
+.\output\uart.o: C:\StellarisWare\driverlib/sysctl.h

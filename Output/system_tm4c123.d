@@ -1,0 +1,9 @@
+.\output\system_tm4c123.o: C:\Keil\ARM\Startup\TI\TM4C123\system_TM4C123.c
+.\output\system_tm4c123.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\system_tm4c123.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\output\system_tm4c123.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C1233H6PM.h
+.\output\system_tm4c123.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\output\system_tm4c123.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\system_tm4c123.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\system_tm4c123.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\output\system_tm4c123.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h

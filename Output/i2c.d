@@ -1,0 +1,10 @@
+.\output\i2c.o: C:\StellarisWare\driverlib\i2c.c
+.\output\i2c.o: C:\StellarisWare\inc/hw_i2c.h
+.\output\i2c.o: C:\StellarisWare\inc/hw_ints.h
+.\output\i2c.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\i2c.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\i2c.o: C:\StellarisWare\inc/hw_types.h
+.\output\i2c.o: C:\StellarisWare\driverlib/debug.h
+.\output\i2c.o: C:\StellarisWare\driverlib/i2c.h
+.\output\i2c.o: C:\StellarisWare\driverlib/sysctl.h
+.\output\i2c.o: C:\StellarisWare\driverlib/interrupt.h

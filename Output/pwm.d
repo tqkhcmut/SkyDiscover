@@ -1,0 +1,9 @@
+.\output\pwm.o: C:\StellarisWare\driverlib\pwm.c
+.\output\pwm.o: C:\StellarisWare\inc/hw_ints.h
+.\output\pwm.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\pwm.o: C:\StellarisWare\inc/hw_pwm.h
+.\output\pwm.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\pwm.o: C:\StellarisWare\inc/hw_types.h
+.\output\pwm.o: C:\StellarisWare\driverlib/debug.h
+.\output\pwm.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\pwm.o: C:\StellarisWare\driverlib/pwm.h

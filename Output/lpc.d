@@ -1,0 +1,9 @@
+.\output\lpc.o: C:\StellarisWare\driverlib\lpc.c
+.\output\lpc.o: C:\StellarisWare\inc/hw_ints.h
+.\output\lpc.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\lpc.o: C:\StellarisWare\inc/hw_lpc.h
+.\output\lpc.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\lpc.o: C:\StellarisWare\inc/hw_types.h
+.\output\lpc.o: C:\StellarisWare\driverlib/debug.h
+.\output\lpc.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\lpc.o: C:\StellarisWare\driverlib/lpc.h

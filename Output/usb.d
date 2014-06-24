@@ -1,0 +1,11 @@
+.\output\usb.o: C:\StellarisWare\driverlib\usb.c
+.\output\usb.o: C:\StellarisWare\inc/hw_ints.h
+.\output\usb.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\usb.o: C:\StellarisWare\inc/hw_types.h
+.\output\usb.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\usb.o: C:\StellarisWare\inc/hw_usb.h
+.\output\usb.o: C:\StellarisWare\driverlib/debug.h
+.\output\usb.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\usb.o: C:\StellarisWare\driverlib/sysctl.h
+.\output\usb.o: C:\StellarisWare\driverlib/udma.h
+.\output\usb.o: C:\StellarisWare\driverlib/usb.h

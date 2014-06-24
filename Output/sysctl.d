@@ -1,0 +1,9 @@
+.\output\sysctl.o: C:\StellarisWare\driverlib\sysctl.c
+.\output\sysctl.o: C:\StellarisWare\inc/hw_ints.h
+.\output\sysctl.o: C:\StellarisWare\inc/hw_nvic.h
+.\output\sysctl.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\sysctl.o: C:\StellarisWare\inc/hw_types.h
+.\output\sysctl.o: C:\StellarisWare\driverlib/cpu.h
+.\output\sysctl.o: C:\StellarisWare\driverlib/debug.h
+.\output\sysctl.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\sysctl.o: C:\StellarisWare\driverlib/sysctl.h

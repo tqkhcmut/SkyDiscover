@@ -1,0 +1,16 @@
+.\output\softuart.o: C:\StellarisWare\utils\softuart.c
+.\output\softuart.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\output\softuart.o: C:\StellarisWare\inc/hw_ints.h
+.\output\softuart.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\softuart.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\softuart.o: C:\StellarisWare\inc/hw_types.h
+.\output\softuart.o: C:\StellarisWare\inc/hw_uart.h
+.\output\softuart.o: C:\StellarisWare\driverlib/debug.h
+.\output\softuart.o: C:\StellarisWare\driverlib/gpio.h
+.\output\softuart.o: C:\StellarisWare\driverlib/pin_map.h
+.\output\softuart.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\softuart.o: C:\StellarisWare\driverlib/rom.h
+.\output\softuart.o: C:\StellarisWare\driverlib/rom_map.h
+.\output\softuart.o: C:\StellarisWare\driverlib/uart.h
+.\output\softuart.o: C:\StellarisWare\driverlib/sysctl.h
+.\output\softuart.o: C:\StellarisWare\utils/softuart.h

@@ -1,0 +1,9 @@
+.\output\cpu_usage.o: C:\StellarisWare\utils\cpu_usage.c
+.\output\cpu_usage.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\cpu_usage.o: C:\StellarisWare\inc/hw_types.h
+.\output\cpu_usage.o: C:\StellarisWare\driverlib/debug.h
+.\output\cpu_usage.o: C:\StellarisWare\driverlib/rom.h
+.\output\cpu_usage.o: C:\StellarisWare\driverlib/rom_map.h
+.\output\cpu_usage.o: C:\StellarisWare\driverlib/sysctl.h
+.\output\cpu_usage.o: C:\StellarisWare\driverlib/timer.h
+.\output\cpu_usage.o: C:\StellarisWare\utils/cpu_usage.h

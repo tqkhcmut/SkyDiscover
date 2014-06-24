@@ -1,0 +1,9 @@
+.\output\peci.o: C:\StellarisWare\driverlib\peci.c
+.\output\peci.o: C:\StellarisWare\inc/hw_ints.h
+.\output\peci.o: C:\StellarisWare\inc/hw_memmap.h
+.\output\peci.o: C:\StellarisWare\inc/hw_peci.h
+.\output\peci.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\peci.o: C:\StellarisWare\inc/hw_types.h
+.\output\peci.o: C:\StellarisWare\driverlib/debug.h
+.\output\peci.o: C:\StellarisWare\driverlib/interrupt.h
+.\output\peci.o: C:\StellarisWare\driverlib/peci.h

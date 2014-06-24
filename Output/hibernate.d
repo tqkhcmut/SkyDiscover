@@ -1,0 +1,9 @@
+.\output\hibernate.o: C:\StellarisWare\driverlib\hibernate.c
+.\output\hibernate.o: C:\StellarisWare\inc/hw_hibernate.h
+.\output\hibernate.o: C:\StellarisWare\inc/hw_ints.h
+.\output\hibernate.o: C:\StellarisWare\inc/hw_sysctl.h
+.\output\hibernate.o: C:\StellarisWare\inc/hw_types.h
+.\output\hibernate.o: C:\StellarisWare\driverlib/debug.h
+.\output\hibernate.o: C:\StellarisWare\driverlib/hibernate.h
+.\output\hibernate.o: C:\StellarisWare\driverlib/sysctl.h
+.\output\hibernate.o: C:\StellarisWare\driverlib/interrupt.h
