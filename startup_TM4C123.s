@@ -48,6 +48,13 @@ __heap_base
 Heap_Mem        SPACE   Heap_Size
 __heap_limit
 
+;******************************************************************************
+;
+; External declarations for the interrupt handlers used by the application.
+;
+;******************************************************************************
+        EXTERN  SysTickIntHandler
+        EXTERN  UARTStdioIntHandler
 
                 PRESERVE8
                 THUMB
@@ -75,7 +82,7 @@ __Vectors       DCD     __initial_sp              ; Top of Stack
                 DCD     DebugMon_Handler          ; Debug Monitor Handler
                 DCD     0                         ; Reserved
                 DCD     PendSV_Handler            ; PendSV Handler
-                DCD     SysTick_Handler           ; SysTick Handler
+                DCD     SysTickIntHandler           ; SysTick Handler
 
                 ; External Interrupts
 
